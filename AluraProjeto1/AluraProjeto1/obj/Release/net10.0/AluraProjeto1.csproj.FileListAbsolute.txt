@@ -1,0 +1,14 @@
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\bin\Release\net10.0\AluraProjeto1.exe
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\bin\Release\net10.0\AluraProjeto1.deps.json
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\bin\Release\net10.0\AluraProjeto1.runtimeconfig.json
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\bin\Release\net10.0\AluraProjeto1.dll
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\bin\Release\net10.0\AluraProjeto1.pdb
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\obj\Release\net10.0\AluraProjeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\obj\Release\net10.0\AluraProjeto1.AssemblyInfoInputs.cache
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\obj\Release\net10.0\AluraProjeto1.AssemblyInfo.cs
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\obj\Release\net10.0\AluraProjeto1.csproj.CoreCompileInputs.cache
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\obj\Release\net10.0\AluraProjeto1.dll
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\obj\Release\net10.0\refint\AluraProjeto1.dll
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\obj\Release\net10.0\AluraProjeto1.pdb
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\obj\Release\net10.0\AluraProjeto1.genruntimeconfig.cache
+C:\visualstudio_project\AluraProjeto1\AluraProjeto1\obj\Release\net10.0\ref\AluraProjeto1.dll

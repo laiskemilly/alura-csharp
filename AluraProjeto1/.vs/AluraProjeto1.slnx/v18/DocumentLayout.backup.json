@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\visualstudio_project\\AluraProjeto1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1399E9E3-8448-62AC-063A-BBE141EC779C}|AluraProjeto1\\AluraProjeto1.csproj|c:\\visualstudio_project\\aluraprojeto1\\aluraprojeto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1399E9E3-8448-62AC-063A-BBE141EC779C}|AluraProjeto1\\AluraProjeto1.csproj|solutionrelative:aluraprojeto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\visualstudio_project\\AluraProjeto1\\AluraProjeto1\\Program.cs",
+              "RelativeDocumentMoniker": "AluraProjeto1\\Program.cs",
+              "ToolTip": "C:\\visualstudio_project\\AluraProjeto1\\AluraProjeto1\\Program.cs",
+              "RelativeToolTip": "AluraProjeto1\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T12:48:43.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
