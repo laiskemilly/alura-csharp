@@ -1,0 +1,15 @@
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\bin\Debug\net10.0\Alura-classes-metodos.exe
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\bin\Debug\net10.0\Alura-classes-metodos.deps.json
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\bin\Debug\net10.0\Alura-classes-metodos.runtimeconfig.json
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\bin\Debug\net10.0\Alura-classes-metodos.dll
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\bin\Debug\net10.0\Alura-classes-metodos.pdb
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\obj\Debug\net10.0\Alura-classes-metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\obj\Debug\net10.0\Alura-classes-metodos.AssemblyInfoInputs.cache
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\obj\Debug\net10.0\Alura-classes-metodos.AssemblyInfo.cs
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\obj\Debug\net10.0\Alura-classes-metodos.csproj.CoreCompileInputs.cache
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\obj\Debug\net10.0\Alura-classes-metodos.sourcelink.json
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\obj\Debug\net10.0\Alura-classes-metodos.dll
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\obj\Debug\net10.0\refint\Alura-classes-metodos.dll
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\obj\Debug\net10.0\Alura-classes-metodos.pdb
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\obj\Debug\net10.0\Alura-classes-metodos.genruntimeconfig.cache
+C:\Alura\curso_csharp\Alura-classes-metodos\Alura-classes-metodos\obj\Debug\net10.0\ref\Alura-classes-metodos.dll

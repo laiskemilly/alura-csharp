@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AluraProjeto1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Alura-classes-metodos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc0fe01810b55d301e642f0777065ed62e2b6fc4")]
-[assembly: System.Reflection.AssemblyProductAttribute("AluraProjeto1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AluraProjeto1")]
+[assembly: System.Reflection.AssemblyProductAttribute("Alura-classes-metodos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Alura-classes-metodos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
