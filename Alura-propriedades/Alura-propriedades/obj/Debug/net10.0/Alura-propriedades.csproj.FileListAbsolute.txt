@@ -1,0 +1,15 @@
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\bin\Debug\net10.0\Alura-propriedades.exe
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\bin\Debug\net10.0\Alura-propriedades.deps.json
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\bin\Debug\net10.0\Alura-propriedades.runtimeconfig.json
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\bin\Debug\net10.0\Alura-propriedades.dll
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\bin\Debug\net10.0\Alura-propriedades.pdb
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\obj\Debug\net10.0\Alura-propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\obj\Debug\net10.0\Alura-propriedades.AssemblyInfoInputs.cache
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\obj\Debug\net10.0\Alura-propriedades.AssemblyInfo.cs
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\obj\Debug\net10.0\Alura-propriedades.csproj.CoreCompileInputs.cache
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\obj\Debug\net10.0\Alura-propriedades.sourcelink.json
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\obj\Debug\net10.0\Alura-propriedades.dll
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\obj\Debug\net10.0\refint\Alura-propriedades.dll
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\obj\Debug\net10.0\Alura-propriedades.pdb
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\obj\Debug\net10.0\Alura-propriedades.genruntimeconfig.cache
+C:\Alura\curso_csharp\Alura-propriedades\Alura-propriedades\obj\Debug\net10.0\ref\Alura-propriedades.dll
