@@ -1,0 +1,15 @@
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\obj\Debug\net10.0\Alura-classes-construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\obj\Debug\net10.0\Alura-classes-construtores.AssemblyInfoInputs.cache
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\obj\Debug\net10.0\Alura-classes-construtores.AssemblyInfo.cs
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\obj\Debug\net10.0\Alura-classes-construtores.csproj.CoreCompileInputs.cache
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\obj\Debug\net10.0\Alura-classes-construtores.sourcelink.json
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\bin\Debug\net10.0\Alura-classes-construtores.exe
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\bin\Debug\net10.0\Alura-classes-construtores.deps.json
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\bin\Debug\net10.0\Alura-classes-construtores.runtimeconfig.json
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\bin\Debug\net10.0\Alura-classes-construtores.dll
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\bin\Debug\net10.0\Alura-classes-construtores.pdb
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\obj\Debug\net10.0\Alura-classes-construtores.dll
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\obj\Debug\net10.0\refint\Alura-classes-construtores.dll
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\obj\Debug\net10.0\Alura-classes-construtores.pdb
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\obj\Debug\net10.0\Alura-classes-construtores.genruntimeconfig.cache
+C:\Alura\curso_csharp\Alura-classes-construtores\Alura-classes-construtores\obj\Debug\net10.0\ref\Alura-classes-construtores.dll
